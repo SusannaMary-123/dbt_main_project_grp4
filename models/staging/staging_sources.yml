@@ -1,0 +1,10 @@
+version: 2
+sources:
+- name: group_4_project_weather
+  schema: group_4_project_weather
+  tables:
+    - name: weather_daily_raw
+    - name: weather_hourly_raw
+    - name: flights
+    - name: airports
+    - name: regions
