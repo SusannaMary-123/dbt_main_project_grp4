@@ -7,4 +7,4 @@ sources:
     - name: weather_hourly_raw
     - name: airports
     - name: flights_all
-    - name: regions
+  
