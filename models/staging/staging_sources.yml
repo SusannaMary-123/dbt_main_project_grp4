@@ -5,6 +5,6 @@ sources:
   tables:
     - name: weather_daily_raw
     - name: weather_hourly_raw
-    - name: flights
     - name: airports
+    - name: flights_all
     - name: regions
