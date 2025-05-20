@@ -44,5 +44,5 @@ models:
     prep:
       +materialized: table
     # Applies to all files under models/marts/
-    marts:
+    mart:
       +materialized: table
